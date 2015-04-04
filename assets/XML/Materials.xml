@@ -88,15 +88,6 @@
 		<Hardness value="0"/>
 	</Material>
 	<Material>
-		<Name Label="MATERIAL_FARM"/>
-		<MaterialClass label="MATERIALCLASS_SOIL"/>
-		<PrimaryColor label="COLOR_DARK_BROWN"/>
-		<ColorMode mode="overlay"/>
-		<SurfaceTextures>
-			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_FLOOR_1" Texturelabel="TEXTURE_GROUND"/>
-		</SurfaceTextures>
-	</Material>
-	<Material>
 		<Name Label="MATERIAL_DARK_GRASS"/>
 		<MaterialClass label="MATERIALCLASS_VEGATATION"/>
 		<PrimaryColor label="GRASS_DARK"/>
