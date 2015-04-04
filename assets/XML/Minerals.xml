@@ -8,6 +8,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_ROUGH"/>
 		</SurfaceTextures>
+		<Hardness value="2"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_TALC"/>
@@ -17,6 +18,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_ROUGH"/>
 		</SurfaceTextures>
+		<Hardness value="1"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_JET"/>
@@ -26,6 +28,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_ROUGH"/>
 		</SurfaceTextures>
+		<Hardness value="3"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_PUDDINGSTONE"/>
@@ -35,6 +38,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_ROUGH"/>
 		</SurfaceTextures>
+		<Hardness value="2"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_PETRIFIED_WOOD"/>
@@ -44,6 +48,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_ROUGH"/>
 		</SurfaceTextures>
+		<Hardness value="7"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_GRAPHITE"/>
@@ -53,6 +58,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_ROUGH"/>
 		</SurfaceTextures>
+		<Hardness value="2"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_BRIMSTONE"/>
@@ -62,6 +68,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_ROUGH"/>
 		</SurfaceTextures>
+		<Hardness value="2"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_KIMBERLITE"/>
@@ -71,6 +78,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_ROUGH"/>
 		</SurfaceTextures>
+		<Hardness value="5"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_BISMUTHINITE"/>
@@ -85,6 +93,7 @@
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_FLOOR_3" Texturelabel="TEXTURE_VEINS"/>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_FLOOR_4" Texturelabel="TEXTURE_VEINS"/>
 		</SurfaceTextures>
+		<Hardness value="2"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_REALGAR"/>
@@ -94,6 +103,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_ROUGH"/>
 		</SurfaceTextures>
+		<Hardness value="2"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_ORPIMENT"/>
@@ -103,6 +113,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_ROUGH"/>
 		</SurfaceTextures>
+		<Hardness value=""/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_STIBNITE"/>
@@ -112,6 +123,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_ROUGH"/>
 		</SurfaceTextures>
+		<Hardness value="2"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_MARCASITE"/>
@@ -121,6 +133,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_ROUGH"/>
 		</SurfaceTextures>
+		<Hardness value="6"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_SYLVITE"/>
@@ -130,6 +143,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_ROUGH"/>
 		</SurfaceTextures>
+		<Hardness value="3"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_CRYOLITE"/>
@@ -139,6 +153,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_ROUGH"/>
 		</SurfaceTextures>
+		<Hardness value="3"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_PERICLASE"/>
@@ -148,6 +163,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_ROUGH"/>
 		</SurfaceTextures>
+		<Hardness value="6"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_ILMENITE"/>
@@ -157,6 +173,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_ROUGH"/>
 		</SurfaceTextures>
+		<Hardness value="5"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_RUTILE"/>
@@ -166,6 +183,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_ROUGH"/>
 		</SurfaceTextures>
+		<Hardness value="6"/>
 	</Material>	
 	<Material>
 		<Name Label="MATERIAL_MAGNETITE"/>
@@ -175,6 +193,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_ROUGH"/>
 		</SurfaceTextures>
+		<Hardness value="5"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_CHROMITE"/>
@@ -184,6 +203,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_ROUGH"/>
 		</SurfaceTextures>
+		<Hardness value="6"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_PYROLUSITE"/>
@@ -193,6 +213,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_ROUGH"/>
 		</SurfaceTextures>
+		<Hardness value="6"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_PITCHBLENDE"/>
@@ -202,6 +223,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_ROUGH"/>
 		</SurfaceTextures>
+		<Hardness value="5"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_BAUXITE"/>
@@ -215,6 +237,7 @@
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_FLOOR_3" Texturelabel="TEXTURE_SWIRLY"/>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_FLOOR_4" Texturelabel="TEXTURE_SWIRLY"/>
 		</SurfaceTextures>
+		<Hardness value="3"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_ALUMINUM_NUGGETS"/>
@@ -229,6 +252,7 @@
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_FLOOR_3" Texturelabel="TEXTURE_VEINS"/>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_FLOOR_4" Texturelabel="TEXTURE_VEINS"/>
 		</SurfaceTextures>
+		<Hardness value="3"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_BORAX"/>
@@ -238,6 +262,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_ROUGH"/>
 		</SurfaceTextures>
+		<Hardness value="2"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_OLIVINE"/>
@@ -251,6 +276,7 @@
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_FLOOR_3" Texturelabel="TEXTURE_IGNEOUS_INTRUSIVE"/>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_FLOOR_4" Texturelabel="TEXTURE_IGNEOUS_INTRUSIVE"/>
 		</SurfaceTextures>
+		<Hardness value="7"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_HORNBLENDE"/>
@@ -260,6 +286,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_ROUGH"/>
 		</SurfaceTextures>
+		<Hardness value="6"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_KAOLINITE"/>
@@ -269,6 +296,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_ROUGH"/>
 		</SurfaceTextures>
+		<Hardness value="2"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_SERPENTINE"/>
@@ -278,6 +306,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_ROUGH"/>
 		</SurfaceTextures>
+		<Hardness value="4"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_ORTHOCLASE"/>
@@ -287,6 +316,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_ROUGH"/>
 		</SurfaceTextures>
+		<Hardness value="6"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_MICROCLINE"/>
@@ -300,6 +330,7 @@
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_FLOOR_3" Texturelabel="TEXTURE_CRYSTALLINE"/>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_FLOOR_4" Texturelabel="TEXTURE_CRYSTALLINE"/>
 		</SurfaceTextures>
+		<Hardness value="6"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_MICA"/>
@@ -309,6 +340,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_ROUGH"/>
 		</SurfaceTextures>
+		<Hardness value="2"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_CALCITE"/>
@@ -318,6 +350,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_ROUGH"/>
 		</SurfaceTextures>
+		<Hardness value="3"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_SALTPETER"/>
@@ -327,6 +360,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_ROUGH"/>
 		</SurfaceTextures>
+		<Hardness value="2"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_ALABASTER"/>
@@ -336,6 +370,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_ROUGH"/>
 		</SurfaceTextures>
+		<Hardness value="2"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_SELENITE"/>
@@ -345,6 +380,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_ROUGH"/>
 		</SurfaceTextures>
+		<Hardness value="2"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_SATINSPAR"/>
@@ -354,6 +390,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_ROUGH"/>
 		</SurfaceTextures>
+		<Hardness value="2"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_ANHYDRITE"/>
@@ -363,6 +400,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_ROUGH"/>
 		</SurfaceTextures>
+		<Hardness value="4"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_ALUNITE"/>
@@ -372,6 +410,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_ROUGH"/>
 		</SurfaceTextures>
+		<Hardness value="4"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_RAW_ADAMANTINE"/>
@@ -386,5 +425,6 @@
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_FLOOR_3" Texturelabel="TEXTURE_VEINS"/>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_FLOOR_4" Texturelabel="TEXTURE_VEINS"/>
 		</SurfaceTextures>
+		<Hardness value="11"/>
 	</Material>
 </Minerals>
