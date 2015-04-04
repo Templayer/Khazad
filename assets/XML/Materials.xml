@@ -210,15 +210,6 @@
 		<PrimaryColor label="COLOR_NAVY_BLUE"/>
 		<SecondaryColor label="COLOR_WHITE"/>
 		<Hardness value="1"/>
-	</Material>
-	<Material>
-		<Name Label="MATERIAL_PIT"/>
-		<MaterialClass label="MATERIALCLASS_EXOTIC"/>
-		<Texture label="TEXTURE_PIT"/>
-		<PrimaryColor label="COLOR_SILVER"/>
-		<SecondaryColor label="COLOR_SILVER"/>
-		<BorderColor label="COLOR_SILVER"/>
-	</Material>
 	<Material>
 		<Name Label="MATERIAL_GREEN_GLASS"/>
 		<MaterialClass label="MATERIALCLASS_GREEN_GLASS"/>
