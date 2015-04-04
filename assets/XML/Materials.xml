@@ -65,6 +65,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_FLOOR_1" Texturelabel="TEXTURE_DRIFTWOOD"/>
 		</SurfaceTextures>
+		<Hardness value="1"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_LAVA"/>
@@ -84,6 +85,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_FLOOR_1" Texturelabel="TEXTURE_DIRT"/>
 		</SurfaceTextures>
+		<Hardness value="0"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_FARM"/>
@@ -157,6 +159,7 @@
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_FLOOR_3" Texturelabel="TEXTURE_GRASS_3"/>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_FLOOR_4" Texturelabel="TEXTURE_GRASS_4"/>
 		</SurfaceTextures>
+		<Hardness value="1"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_RIVER_PEBBLES"/>
@@ -169,6 +172,7 @@
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_FLOOR_3" Texturelabel="TEXTURE_PEBBLES"/>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_FLOOR_4" Texturelabel="TEXTURE_PEBBLES"/>
 		</SurfaceTextures>
+		<Hardness value="1"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_STREAM_PEBBLES"/>
@@ -181,6 +185,7 @@
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_FLOOR_3" Texturelabel="TEXTURE_PEBBLES"/>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_FLOOR_4" Texturelabel="TEXTURE_PEBBLES"/>
 		</SurfaceTextures>
+		<Hardness value="1"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_SNOW"/>
@@ -197,12 +202,14 @@
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_PEBBLES" Texturelabel="TEXTURE_SNOW"/>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_BOULDER" Texturelabel="TEXTURE_SNOW"/>
 		</SurfaceTextures>
+		<Hardness value="0"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_ICE"/>
 		<MaterialClass label="MATERIALCLASS_ICE"/>
 		<PrimaryColor label="COLOR_NAVY_BLUE"/>
 		<SecondaryColor label="COLOR_WHITE"/>
+		<Hardness value="1"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_PIT"/>
@@ -217,17 +224,20 @@
 		<MaterialClass label="MATERIALCLASS_GREEN_GLASS"/>
 		<PrimaryColor label="COLOR_GREEN"/>
 		<SecondaryColor label="COLOR_BLACK"/>
+		<Hardness value="7"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_CLEAR_GLASS"/>
 		<MaterialClass label="MATERIALCLASS_CLEAR_GLASS"/>
 		<PrimaryColor label="COLOR_LIGHT_GREY"/>
 		<SecondaryColor label="COLOR_WHITE"/>
+		<Hardness value="6"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_CRYSTAL_GLASS"/>
 		<MaterialClass label="MATERIALCLASS_CRYSTAL_GLASS"/>
 		<PrimaryColor label="COLOR_WHITE"/>
 		<SecondaryColor label="COLOR_LIGHT_GREY"/>
+		<Hardness value="7"/>
 	</Material>
 </Materials>
