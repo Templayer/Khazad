@@ -50,6 +50,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_FLOOR_1" Texturelabel="TEXTURE_ROUGH"/>
 		</SurfaceTextures>
+		<Hardness value="5"/>
 	</Material>
 	<MaterialClass>
 		<Name Label="MATERIALCLASS_LAYER_STONE"/>
@@ -91,6 +92,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_SAND_2"/>
 		</SurfaceTextures>
+		<Hardness value="7"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_SILTSTONE"/>
@@ -101,6 +103,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_LAYERED"/>
 		</SurfaceTextures>
+		<Hardness value="2"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_MUDSTONE"/>
@@ -111,6 +114,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_LAYERED"/>
 		</SurfaceTextures>
+		<Hardness value="2"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_SHALE"/>
@@ -121,6 +125,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_LAYERED"/>
 		</SurfaceTextures>
+		<Hardness value="2"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_CLAYSTONE"/>
@@ -131,6 +136,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_LAYERED"/>
 		</SurfaceTextures>
+		<Hardness value="2"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_ROCK_SALT"/>
@@ -141,6 +147,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_CUBIC"/>
 		</SurfaceTextures>
+		<Hardness value="2"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_LIMESTONE"/>
@@ -151,6 +158,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_CARBONATE"/>
 		</SurfaceTextures>
+		<Hardness value="3"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_CONGLOMERATE"/>
@@ -161,6 +169,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_PEBBLES"/>
 		</SurfaceTextures>
+		<Hardness value="5"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_DOLOMITE"/>
@@ -171,6 +180,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_CARBONATE"/>
 		</SurfaceTextures>
+		<Hardness value="4"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_FLINT"/>
@@ -181,6 +191,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_DIRT"/>
 		</SurfaceTextures>
+		<Hardness value="7"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_CHERT"/>
@@ -191,6 +202,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_DIRT"/>
 		</SurfaceTextures>
+		<Hardness value="7"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_CHALK"/>
@@ -201,6 +213,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_CARBONATE"/>
 		</SurfaceTextures>
+		<Hardness value="5"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_GRANITE"/>
@@ -215,6 +228,7 @@
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_FLOOR_3" Texturelabel="TEXTURE_GENERIC_ROCK"/>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_FLOOR_4" Texturelabel="TEXTURE_GENERIC_ROCK"/>
 		</SurfaceTextures>
+		<Hardness value="7"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_DIORITE"/>
@@ -229,6 +243,7 @@
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_FLOOR_3" Texturelabel="TEXTURE_IGNEOUS_INTRUSIVE"/>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_FLOOR_4" Texturelabel="TEXTURE_IGNEOUS_INTRUSIVE"/>
 		</SurfaceTextures>
+		<Hardness value="6"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_GABBRO"/>
@@ -244,6 +259,7 @@
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_FLOOR_3" Texturelabel="TEXTURE_IGNEOUS_INTRUSIVE"/>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_FLOOR_4" Texturelabel="TEXTURE_IGNEOUS_INTRUSIVE"/>
 		</SurfaceTextures>
+		<Hardness value="5"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_RHYOLITE"/>
@@ -258,6 +274,7 @@
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_FLOOR_3" Texturelabel="TEXTURE_IGNEOUS_EXTRUSIVE"/>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_FLOOR_4" Texturelabel="TEXTURE_IGNEOUS_EXTRUSIVE"/>
 		</SurfaceTextures>
+		<Hardness value="7"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_BASALT"/>
@@ -272,6 +289,7 @@
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_FLOOR_3" Texturelabel="TEXTURE_IGNEOUS_EXTRUSIVE"/>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_FLOOR_4" Texturelabel="TEXTURE_IGNEOUS_EXTRUSIVE"/>
 		</SurfaceTextures>
+		<Hardness value="8"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_ANDESITE"/>
@@ -287,6 +305,7 @@
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_FLOOR_3" Texturelabel="TEXTURE_IGNEOUS_EXTRUSIVE"/>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_FLOOR_4" Texturelabel="TEXTURE_IGNEOUS_EXTRUSIVE"/>
 		</SurfaceTextures>
+		<Hardness value="6"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_FELSITE"/>
@@ -302,6 +321,7 @@
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_FLOOR_3" Texturelabel="TEXTURE_IGNEOUS_EXTRUSIVE"/>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_FLOOR_4" Texturelabel="TEXTURE_IGNEOUS_EXTRUSIVE"/>
 		</SurfaceTextures>
+		<Hardness value="4"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_OBSIDIAN"/>
@@ -312,6 +332,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_ROUGH"/>
 		</SurfaceTextures>
+		<Hardness value="5"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_QUARTZITE"/>
@@ -322,6 +343,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_DIRT"/>
 		</SurfaceTextures>
+		<Hardness value="7"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_SLATE"/>
@@ -332,6 +354,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_LAYERED"/>
 		</SurfaceTextures>
+		<Hardness value="4"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_PHYLLITE"/>
@@ -342,6 +365,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_LAYERED"/>
 		</SurfaceTextures>
+		<Hardness value="4"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_SCHIST"/>
@@ -352,6 +376,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_FOLIATED"/>
 		</SurfaceTextures>
+		<Hardness value="6"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_GNEISS"/>
@@ -363,6 +388,7 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_FOLIATED"/>
 		</SurfaceTextures>
+		<Hardness value="7"/>
 	</Material>
 	<Material>
 		<Name Label="MATERIAL_MARBLE"/>
@@ -373,5 +399,6 @@
 		<SurfaceTextures>
 			<SurfaceTexture SurfaceTypelabel="SURFACETYPE_ROUGH_WALL" Texturelabel="TEXTURE_CARBONATE"/>
 		</SurfaceTextures>
+		<Hardness value="4"/>
 	</Material>
 </Stones>
